@@ -7,13 +7,11 @@
 ---
 
 ## Información del Equipo
-- **Integrante 1:** Juan Fernando Bueno Torres — `@JuanFer2004`  
-- **Integrante 2:** NOMBRE COMPLETO — `@GITHUB_USER2`  
-- **Fecha de entrega:** YYYY-MM-DD  
+- **Integrante 1:** Juan Fernando Bueno Torres — `@JuanFer2004`   
+- **Fecha de entrega:** 2025-10-02  
 
 **Distribución de responsabilidades**  
-- Integrante 1: Login Bypass, Union-Based Injection, capturas y evidencias.  
-- Integrante 2: Blind SQL Injection, contramedidas, análisis CIA y reflexión ética.  
+- Integrante 1: Todo.   
 
 ---
 
